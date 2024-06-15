@@ -1,0 +1,36 @@
+{
+    "companies":[
+        {
+            "id":"0",
+            "imgSrc":"/images/companies/mobile.png",
+            "title":"Mobile Apps",
+            "description":"Get your own mobile app ",
+            "price":"100 DTSU*",
+            "color":"#0A488F"
+        },
+        {
+            "id":"1",
+            "imgSrc":"/images/companies/hr.png",
+            "title":"BI",
+            "description":"Create Dashboards ",
+            "price":"100 DTSU*",
+            "color":"#579064"
+      },
+        {
+            "id":"2",
+            "imgSrc":"/images/companies/mobile.png",
+            "title":"HR",
+            "description":"Talents",
+            "price":"100 DTSU*",
+            "color":"#950000"
+        },
+        {
+            "id":"3",
+            "imgSrc":"/images/companies/operations.png",
+            "title":"Operations",
+            "description":"ERP Management",
+            "price":"100 DTSU*",
+            "color":"#8F6C0A"
+        }
+    ]
+}
